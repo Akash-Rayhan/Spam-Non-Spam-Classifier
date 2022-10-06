@@ -17,6 +17,6 @@ each word.
 • Added hyperparameters to  preparation pipeline to control
 whether or not to strip off email headers, convert each email to lowercase,
 remove punctuation, replace all URLs with “URL,” replace all numbers with
-“NUMBER,”  remove stop words " is, and, the"  remove absurd single characters "'s" or even perform lemmatization 
+“NUMBER,”  remove stop words " is, and, the"  remove absurd single characters " 's " or even perform lemmatization 
 
 • Then tried out  classifier
